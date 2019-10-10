@@ -1,4 +1,4 @@
-const counter = document.querySelector('.countdown-right');
+const counter = document.getElementsByClassName('countdown-right')[0];
 
 
 function cpn() {
