@@ -1,3 +1,4 @@
+// edycji nie będzie, bo droga okazała się źle zaplanowana, a w ogóle to jej nie było, wracam do pierwszego kwadracika
 const counter = document.querySelector('.countdown-right');
 
 
